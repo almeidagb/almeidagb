@@ -10,8 +10,9 @@
 Me chamo Gabriele tenho 19 anos e sou natural da região sul fluminense do Rio de Janeiro. Faço faculdade de Engenharia de Software na universidade de xxxxx, estou atualmente no 4° período e participando de um estágio voluntário onde desenvolvo projetos e aulas de informática básica.
 
 [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:gabrieleaparecidaalmeida34@gmail.com)
-  [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=9745f5)](https://discord.gg/8kc8HqXVw2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/gabriele-almeida-/)
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=9745f5)](https://discord.gg/8kc8HqXVw2)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/gabriele-almeid/)
+
 
 
 # Linguagens e Tecnologias
@@ -55,14 +56,14 @@ width = 30rem />
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=almeidagb&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=almeidagb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   /> 
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidagb&theme=synthwave&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=almeidagb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9745f5&height=100&section=footer"/>
